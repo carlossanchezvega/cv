@@ -1,0 +1,43 @@
+name: Build CV (Pandoc)
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Install LaTeX (for PDF)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended
+
+      - name: Build PDF
+        run: |
+          mkdir -p dist
+          pandoc cv/cv.md \
+            -o dist/CV-Carlos-Sanchez-Vega.pdf \
+            --pdf-engine=pdflatex
+
+      - name: Build DOCX
+        run: |
+          pandoc cv/cv.md \
+            -o dist/CV-Carlos-Sanchez-Vega.docx
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv
+          path: dist/*
