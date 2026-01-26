@@ -1,0 +1,38 @@
+name: Compile CV
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'markdown/*'
+
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      #- name: create file list
+      #  id: files_list
+      #  run: |
+      #    #echo "Lorem ipsum" > lorem_1.md  # create two example files
+      #    #echo "dolor sit amet" > lorem_2.md
+      #    # this will also include README.md
+      #    #echo "::set-output name=files::$(printf '"%s" ' *.md)"
+      #    #echo "files=$(printf '"%s" ' *.md)" >> $GITHUB_OUTPUT
+
+      #    #mkdir output2  # create output2 dir
+      #    #echo "files=markdown/resume.md" >> $GITHUB_OUTPUT
+
+
+      #- uses: docker://pandoc/latex:2.9
+      - uses: docker://ghcr.io/mszep/pandoc_resume:master
+        with:
+          #args: --output=output2/resume.pdf ${{ steps.files_list.outputs.files }}
+          args: make all
+          
+      - uses: actions/upload-artifact@master
+        with:
+          name: resume
+          path: output
