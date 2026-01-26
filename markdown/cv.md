@@ -33,21 +33,16 @@ Jira | Confluence | Power BI | Google Cloud Platform (GCP) | AWS | Git
 Professional experience
 -------------------
 
-----------
+Kairós Digital Solutions S.L. (Client: Verisure) — Project Management Officer (PMO)
+Madrid (Hybrid) | Apr 2024 – Present
+- Led delivery governance for a multi-country technology portfolio within the security and alarm services domain, coordinating 3–5 concurrent initiatives and aligning business priorities with IT execution.
+- Consolidated portfolio-level visibility across initiatives, improving oversight of delivery status, critical dependencies, and operational constraints.
+- Oversaw financial tracking, forecasting, and risk management for IT budgets exceeding €0.5M, supporting cost control and informed decision-making.
+- Acted as the central coordination point between business and IT stakeholders, aligning priorities, milestones, and cross-project dependencies in complex operational environments.
+- Coordinated delivery roadmaps with distributed international teams across 3–5 countries, improving synchronization and delivery predictability.
 
-2023-Present
-:   **[Kairos DS](https://kairosds.com/)** - (Client: Verisure) - Project Management Officer (PMO)
-   
-    * Led delivery governance for a multi-country technology portfolio within the security and alarm services domain, coordinating multiple concurrent initiatives and aligning business priorities with IT execution.
 
-    * Consolidated portfolio-level visibility across initiatives, improving oversight of delivery status, critical dependencies, and operational constraints.
 
-    * Supported financial tracking, forecasting, and portfolio-level risk management, strengthening cost visibility and informed decision-making.
-
-    * Acted as the central coordination point between business and IT stakeholders, aligning priorities, milestones, and cross-project dependencies in complex operational environments.
-
-    * Coordinated delivery roadmaps with distributed international teams across multiple countries, improving synchronization and delivery predictability.
-    
 
 Education
 ---------
