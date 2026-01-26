@@ -5,6 +5,7 @@ Sergio SÁNCHEZ VEGA
 
 > As an experienced Site Reliability Engineer, I am dedicated to ensuring the optimal performance and reliability of complex systems. With a proven track record of driving success in high-stress environments, I am skilled in troubleshooting and problem-solving, and am committed to implementing innovative solutions that drive efficiency and reduce downtime. With a deep understanding of cloud computing platforms, container technologies, and multiple programming languages I am confident in my ability to provide exceptional leadership and technical expertise to any organization. My passion for observability, automation, and continuous improvement drives my work, and I thrive in collaborative, team-oriented environments that value innovation and strategic thinking.
 
+
 ----
 
 Contact information
