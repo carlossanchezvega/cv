@@ -98,9 +98,8 @@ Final project (with honors): Simulation of dynamic excitable systems using Java 
 
 Languages
 ---------------
-- Spanish: Native
-- English | French: Professional working proficiency
-- French: Professional working proficiency
+* Spanish: Native
+* English | French: Professional working proficiency
 
 
 
