@@ -100,7 +100,7 @@ Languages
 ---------------
 - Spanish: Native
 - English: Professional working proficiency
-- French: Professional working proficiency  
+- French: Professional working proficiency
 
 
 
