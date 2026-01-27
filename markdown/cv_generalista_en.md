@@ -7,7 +7,7 @@ Carlos Sánchez Vega
 Contact information
 -------------------
 Phone: +34 626 23 39 67 \
-Email: <carlos.sanchez.vega@proton.me> \
+Email: <carlos.sanchez.vega@pm.me> \
 [Linkedin](www.linkedin.com/in/carlos-sanchez-vega) \
 
 
@@ -99,7 +99,7 @@ Final project (with honors): Simulation of dynamic excitable systems using Java 
 Languages
 ---------------
 - Spanish: Native
-- English: Professional working proficiency
+- English | French: Professional working proficiency
 - French: Professional working proficiency
 
 
