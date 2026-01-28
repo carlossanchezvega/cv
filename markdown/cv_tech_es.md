@@ -34,8 +34,6 @@ Herramientas
 Jira | Confluence | Power BI | Google Cloud Platform (GCP) | AWS | Git
 
 
-----
-
 Experiencia Profesional
 -------------------
 ### Project Management Officer (PMO)  
