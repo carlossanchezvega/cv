@@ -4,26 +4,11 @@ Carlos Sánchez Vega
 **IT Project Manager / PMO | Programas Tecnológicos, Data y Plataformas | PMP**
 
 
-Contact information
+Información de contacto
 -------------------
 Phone: +34 626 23 39 67 \
 Email: <carlos.sanchez.vega@pm.me> \
 [Linkedin](www.linkedin.com/in/carlos-sanchez-vega) \
-
-
-
-Perfil Profesional
--------------------
-Carlos Sánchez Vega
-===================
-
-IT Project Manager / PMO Senior  
-Gobierno de Programas Tecnológicos · Sistemas, Cloud y Data · PMP
-
-Madrid, España  
-Tel: +34 626 23 39 67  
-Email: carlos.sanchez.vega@pm.me  
-LinkedIn: www.linkedin.com/in/carlos-sanchez-vega  
 
 ---
 
@@ -66,7 +51,7 @@ HERRAMIENTAS Y ENTORNOS
 
 EXPERIENCIA PROFESIONAL
 ----------------------
-## Últimas experiencias profesionales
+### Últimas experiencias profesionales
 
 ### Project Manager / Service Manager  
 **Minsait (Indra)** — Transporte y Aeronáutica  
@@ -127,17 +112,17 @@ Tecnologías: J2EE (JSP, Spring, Hibernate), RUP, Joomla
 
 CERTIFICACIONES
 ---------------
-ITIL® 4 Foundation (2026) | PMP® (2024) | SAFe Scrum Master (2022)
-Professional Scrum Master II (2022) | Professional Product Owner II (2022)
-Google Professional Cloud Data Engineer (2021)
-AWS Certified Big Data – Specialty (2020, expired) | AWS Solutions Architect – Associate (2020, expired)
+- ITIL® 4 Foundation (2026) | PMP® (2024) | SAFe Scrum Master (2022)
+- Professional Scrum Master II (2022) | Professional Product Owner II (2022)
+- Google Professional Cloud Data Engineer (2021)
+- AWS Certified Big Data – Specialty (2020, expired) | AWS Solutions Architect – Associate (2020, expired)
 
 ---
 
 FORMACIÓN
 ---------
-Máster en Ciencia de Datos — Universidad Rey Juan Carlos (2017–2018)  
-Ingeniería Informática — Universidad Rey Juan Carlos (2004–2010)  
+- Máster en Ciencia de Datos — Universidad Rey Juan Carlos (2017–2018)  
+- Ingeniería Informática — Universidad Rey Juan Carlos (2004–2010)  
 
 ---
 
