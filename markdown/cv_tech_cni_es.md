@@ -127,11 +127,11 @@ Tecnologías: J2EE (JSP, Spring, Hibernate), RUP, Joomla
 
 CERTIFICACIONES
 ---------------
-- Project Management Professional (PMP®)  
-- ITIL® 4 Foundation  
-- AWS Solutions Architect – Associate  
-- Google Professional Cloud Data Engineer  
-*(Certificaciones previas aportables si se requiere.)*
+ITIL® 4 Foundation (2026) | PMP® (2024) | SAFe Scrum Master (2022)
+Professional Scrum Master II (2022) | Professional Product Owner II (2022)
+Google Professional Cloud Data Engineer (2021)
+AWS Certified Big Data – Specialty (2020, expired) | AWS Solutions Architect – Associate (2020, expired)
+
 ---
 
 FORMACIÓN
