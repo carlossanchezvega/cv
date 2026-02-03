@@ -5,17 +5,17 @@ Carlos Sánchez Vega
 
 ---
 
-CONTACT INFORMATION
+INFORMACIÓN DE CONTACTO
 -------------------
 Phone: +34 626 23 39 67  
 Email: <carlos.sanchez.vega@pm.me>  
-[Linkedin](www.linkedin.com/in/carlos-sanchez-vega) 
+Linkedin: www.linkedin.com/in/carlos-sanchez-vega
 
 ---
 
 PERFIL PROFESIONAL
 ------------------
-Project Manager y PMO con sólida base técnica en sistemas, cloud, plataformas y data, y amplia experiencia en el gobierno, planificación y control de programas tecnológicos complejos. Especializado en la coordinación entre equipos técnicos, proveedores y niveles directivos, asegurando viabilidad técnica, control presupuestario, gestión de riesgos y trazabilidad de la ejecución. Experiencia en entornos de alta criticidad, confidencialidad y dependencia tecnológica. Certificado PMP. Experiencia profesional previa en entornos institucionales sensibles.
+Project Manager y PMO con sólida base técnica en sistemas, cloud, plataformas y data, y amplia experiencia en el gobierno, planificación y control de programas tecnológicos complejos. Especializado en la coordinación entre equipos técnicos, proveedores y niveles directivos, asegurando viabilidad técnica, control presupuestario, gestión de riesgos y trazabilidad de la ejecución. Experiencia en entornos de alta criticidad, confidencialidad y dependencia tecnológica. Certificado PMP. Experiencia profesional previa en CNI como personal externo.
 
 ---
 
