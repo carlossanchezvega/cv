@@ -9,7 +9,7 @@ CONTACT INFORMATION
 -------------------
 Phone: +34 626 23 39 67  
 Email: <carlos.sanchez.vega@pm.me>  
-LinkedIn: www.linkedin.com/in/carlos-sanchez-vega  
+[Linkedin](www.linkedin.com/in/carlos-sanchez-vega) 
 
 ---
 
