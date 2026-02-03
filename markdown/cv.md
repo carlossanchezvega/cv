@@ -7,7 +7,7 @@ Carlos Sánchez Vega
 Contact information
 -------------------
 
-Phone: +34 626 23 39 67 \
+Phone:  +34 626 23 39 67 \
 Email: <carlos.sanchez.vega@proton.me> \
 [Linkedin](www.linkedin.com/in/carlos-sanchez-vega) \
 
